@@ -60,4 +60,4 @@
 
   
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=931AE7&height=120&section=footer"/>****
+<img width=100% text="Lucas+de+Sena" src="https://capsule-render.vercel.app/api?type=waving&color=931AE7&height=120&section=footer"/>
