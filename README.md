@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=931AE7&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=931AE7&size=35&center=true&vCenter=true&width=1000&lines=Ola!+Me+Chamo+Lucas+de+Sena;Eu+Tenho+17+Anos;Eu+Sou+Brasileiro,+MT;Eu+Estudo+Desenvolvimento+de+Sistemas+no+Senai;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=931AE7&size=35&center=true&vCenter=true&width=1000&lines=Ola!+Me+Chamo+Lucas+de+Sena;Eu+Tenho+18+Anos+Atualmente;Eu+Sou+Brasileiro,+MT;Sou+Formado+em+Desenvolvimento+de+Sistemas+no+Senai;Atualmente+Faço+Sistemas+na+IFMT;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+
 
 
  <div align="center">  
@@ -8,7 +9,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucSena&layout=compact&hide_border=true&title_color=931AE7&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LucSena&bg_color=0d1117&color=787878&line=680bda&point=cbc8ca&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LucSena&bg_color=0d1117&color=787878&line=680bda&point=cbc8ca&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 
 <div align="center"> 
