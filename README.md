@@ -11,6 +11,10 @@
 
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LucSena&bg_color=0d1117&color=787878&line=680bda&point=cbc8ca&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
+<div align="center">
+  <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=LucSena&theme=dark&hide_border=false" alt="Github stats"/>
+</div>
+
 
 <div align="center">
  
