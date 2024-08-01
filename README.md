@@ -1,77 +1,67 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=931AE7&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=931AE7&size=35&center=true&vCenter=true&width=1000&lines=Ola!+Me+Chamo+Lucas+de+Sena;Eu+Tenho+19+Anos+Atualmente;Eu+Sou+Brasileiro,+MT;Sou+Formado+em+Desenvolvimento+de+Sistemas+no+Senai;Atualmente+Faço+Sistemas+na+IFMT;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
-
-
-
- <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucSena&show_icons=true&count_private=true&hide_border=true&title_color=931AE7&icon_color=931AE7&text_color=c9d1d9&bg_color=0d1117" alt="Lucas de Sena github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucSena&layout=compact&hide_border=true&title_color=931AE7&text_color=c9d1d9&bg_color=0d1117" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=E4080A&center=true&vCenter=true&width=940&lines=Hey+there%2C+I'm+Lucas+de+Sena+%F0%9F%91%8B;Welcome+to+my+tech+playground!" alt="Typing SVG" />
 </div>
 
-<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LucSena&bg_color=0d1117&color=787878&line=680bda&point=cbc8ca&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+<h2 align="center">🚀 Full-Stack Developer | 🌱 Lifelong Learner | 💡 Tech Enthusiast</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Age-19-blue" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Brazil%2C%20MT-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Portuguese-brightgreen" />
+</p>
+
+<p align="center">Transforming ideas into code and bringing digital dreams to life! 💻✨</p>
+
+<h2 align="center">🛠 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+</p>
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <a href="https://github.com/LucSena">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LucSena&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LucSena&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<h2 align="center">🌱 Currently Learning</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-System%20Design-4B275F?style=flat-square&logo=diagrams.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Data%20Structures-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+</p>
+
+<h2 align="center">🤝 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-de-sena" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:lucassenapessoal@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  </a>
+</p>
+
+<h2 align="center">👀 Visitor Count</h2>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{LucSena}/count.svg" alt="Visitor Count" />
+</p>
 
 <div align="center">
-  <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=LucSena&theme=dark&hide_border=false" alt="Github stats"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
-
-
-<div align="center">
- 
-### Main skills:
-
-![ANGULAR](https://img.shields.io/badge/-ANGULAR-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117) 
-![LARAVEL](https://img.shields.io/badge/-LARAVEL-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117) 
-![CODE IGNITER](https://img.shields.io/badge/-IGNITER-0D1117?style=for-the-badge&logo=codeigniter&labelColor=0D1117) 
-![FLASK](https://img.shields.io/badge/-FLASK-0D1117?style=for-the-badge&logo=flask&labelColor=0D1117) 
-![MYSQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117) 
-
-![PYTHON](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117) 
-![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117) 
-![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117) 
-![TYPESCRIPT](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117) 
-
-### Tools:
-
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117) 
-![Insomnia](https://img.shields.io/badge/-Insomnia-0D1117?style=for-the-badge&logo=insomnia&labelColor=0D1117) 
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-0D1117?style=for-the-badge&logo=google-colab&labelColor=0D1117) 
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117) 
-
-![APACHE](https://img.shields.io/badge/-apache-0D1117?style=for-the-badge&logo=apache&labelColor=0D1117) 
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117) 
-![Photoshop](https://img.shields.io/badge/photoshop-0D1117.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=1572B6&labelColor=0D1117) 
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117) 
-
-### Other Knowledge:
-
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117) 
-![ASP Classic](https://img.shields.io/badge/-ASP%20Classic-0D1117?style=for-the-badge&logo=asp-net&labelColor=0D1117) 
-![jQuery](https://img.shields.io/badge/-jQuery-0D1117?style=for-the-badge&logo=jquery&labelColor=0D1117) 
-
-![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117) 
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-0D1117?style=for-the-badge&logo=tailwind-css&labelColor=0D1117) 
-![Bulma](https://img.shields.io/badge/-Bulma-0D1117?style=for-the-badge&logo=bulma&labelColor=0D1117) 
-
-### Studying in this moment:
-
-![Next.JS](https://img.shields.io/badge/-Next.JS-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117) 
-![Nest.JS](https://img.shields.io/badge/-Nest.JS-0D1117?style=for-the-badge&logo=nestjs&labelColor=0D1117) 
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117) 
-
-### Contact:
-
-<a href="https://www.linkedin.com/in/lucas-de-sena" target="\_blank">![LinkedIN](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=LinkedIn&labelColor=0D1117&textColor=0D1117) </a>
-<a href = "mailto:lucassenapessoal@gmail.com">![Gmail](https://img.shields.io/badge/-gmail-0D1117?style=for-the-badge&logo=gmail&labelColor=0D1117&textColor=0D1117) </a>
-
-</div>
-
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LucSena}/count.svg" /></p> 
-<br></div>
-
-  
-
-<img width=100% text="Lucas+de+Sena" src="https://capsule-render.vercel.app/api?type=waving&color=931AE7&height=120&section=footer"/>
