@@ -56,11 +56,6 @@
   </a>
 </p>
 
-<h2 align="center">👀 Visitor Count</h2>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{LucSena}/count.svg" alt="Visitor Count" />
-</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
