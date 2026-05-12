@@ -5,7 +5,7 @@
 <h2 align="center">🚀 Full-Stack Developer | 🌱 Lifelong Learner | 💡 Tech Enthusiast</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-20-blue" />
+  <img src="https://img.shields.io/badge/Age-21-blue" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Brazil%2C%20MT-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Portuguese-brightgreen" />
